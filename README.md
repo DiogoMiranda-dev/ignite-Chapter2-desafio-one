@@ -139,10 +139,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DiogoMiranda-dev/ignite-Chapter2-desafio-one.git
+$ git clone https://github.com/DiogoMiranda-dev/ignite-chapter2-desafio-one.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ignite-Chapter2-desafio-one
+$ cd ignite-chapter2-desafio-one
 ```
 
 ### 🎲 Rodando a Aplicação
